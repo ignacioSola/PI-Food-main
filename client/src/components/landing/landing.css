@@ -1,0 +1,24 @@
+.text{
+    justify-content: center;
+    font-size: 40px;
+    color: azure;
+    display: grid;
+    place-content: center;
+}
+.l-btn{
+    background-color: azure;
+    color: rgb(42, 42, 61);
+    padding: 10px;
+    border-style: none;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0.5rem;
+    border-color: rgb(42, 42, 61);
+    border: solid 2px;
+}
+.l-btn:hover{
+    padding: 15px;
+}
+.lan{
+    line-height: 200px;
+}

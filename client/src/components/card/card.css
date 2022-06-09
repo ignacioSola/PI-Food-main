@@ -1,0 +1,26 @@
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    height: 420px;
+    margin: 50px;
+    background-color: rgba(31, 31, 42, 0.842);
+    color: azure;
+    border-radius: 10px;
+}
+.img{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 180px;
+    border-radius: 10px;
+}
+.name{
+    text-decoration: none;
+    color: azure;
+}
+.name:hover{
+    color: rgb(35, 35, 127);
+}

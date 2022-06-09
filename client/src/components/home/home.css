@@ -1,0 +1,21 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.btns{
+    background-color: rgba(31, 31, 42, 0.793);
+    border-radius: 5px;
+    color: azure;
+    border-style: none;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+}
+.btns:hover{
+    background-color: rgb(42, 42, 61);
+}
+.div{
+    margin-left: auto;
+}

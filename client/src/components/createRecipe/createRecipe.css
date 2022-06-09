@@ -1,0 +1,57 @@
+.cr-btn{
+    background-color: azure;
+    border-radius: 3px;
+    color: rgb(42, 42, 61);
+    border-style: none;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5px;
+}
+.cr-btn:hover{
+    color: azure;
+    background-color:rgb(42, 42, 61) ;
+}
+.form{
+    /* display: flex;
+    flex-direction: column; */
+    display: table;
+    width: 700px;
+    height: 1000px;
+    margin: 50px;
+    background-color:  rgba(31, 31, 42, 0.842);
+    color: azure;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 5px;
+    padding: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.el{
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 0.25rem;
+    font-size: 16px;
+    /* margin-top: 20px; */
+}
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.volver-btn{
+    background-color: azure;
+    border-radius: 3px;
+    color: rgb(42, 42, 61);
+    border-style: none;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5px;
+    float: left;
+    margin-right: auto;
+    margin-top: 5px;
+}
+.volver-btn:hover{
+    color: azure;
+    background-color:rgb(42, 42, 61) ;
+}
